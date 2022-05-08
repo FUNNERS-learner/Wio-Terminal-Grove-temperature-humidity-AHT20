@@ -13,3 +13,5 @@ Libraries used
 - https://github.com/Seeed-Studio/Seeed_Arduino_AHT20/releases/tag/v1.0.0
 
 This example shows how to get data from AHT20 module.
+
+Updated 
